@@ -1,10 +1,6 @@
 
 # Flood Monitoring System Using Wireless Sensor Network and Internet of Things
 
-
-
-
-
 ## OverView
 Welcome to the Flood Monitoring System project! This system utilizes Wireless Sensor Networks (WSN) and Internet of Things (IoT) technologies to monitor and provide real-time information about flood conditions. The project aims to enhance early detection and response to potential flood events, ultimately contributing to better disaster management.
 ## Introduction
