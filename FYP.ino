@@ -27,7 +27,6 @@ LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
 // Create an instance of the XBee class
 XBee xbee;
-
 // Create a SoftwareSerial object for communication with the XBee module
 SoftwareSerial xbeeSerial(2, 3); // RX, TX (avoid using pins 0 and 1)
 
