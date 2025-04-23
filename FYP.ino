@@ -6,7 +6,6 @@
 // Define the pins for the ultrasonic sensor
 const int trigPin = 9;
 const int echoPin = 10;
-
 // Define the pin for the water flow sensor
 const int flowPin = 8;
 
